@@ -2,5 +2,9 @@
   "name": "@sphere/prettier-config",
   "type": "module",
   "private": true,
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "dependencies": {
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.2"
+  }
 }
