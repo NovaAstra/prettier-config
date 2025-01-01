@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "dependencies": {
     "prettier": "^3.4.2",
+    "prettier-plugin-pkg": "^0.18.1",
     "typescript": "^5.7.2"
   }
 }
